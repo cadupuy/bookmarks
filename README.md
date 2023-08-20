@@ -50,4 +50,5 @@
 - [Color Hunt](http://www.colorhunt.co/)
 - [Name that Color](https://chir.ag/projects/name-that-color/#6195ED)
 - [Coolors](https://coolors.co/)
+- [Semver NPMJS](https://semver.npmjs.com/)
 
